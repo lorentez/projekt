@@ -3,5 +3,6 @@
 
 int main()
 {
+	printf("To nie działa.");
 	return 1;
 }
